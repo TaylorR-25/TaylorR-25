@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Taylor 👋
 
+-- I am a junior going to Wright State for an IT and Cybersecurity degree!
+--Projects I am working on:
 <!--
 **TaylorR-25/TaylorR-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
